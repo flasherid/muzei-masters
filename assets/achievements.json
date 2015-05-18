@@ -1,0 +1,308 @@
+[
+	{
+		"id": "1",
+		"name": "first completed mission",
+		"description": "complete any mission",
+		"criteria": "3",
+		"continuous": "0",
+		"category": "0",
+		"difficulty": "0"
+	},
+	{
+		"id": "2",
+		"name": "completed partizan mission difficulty 1",
+		"description": "number of completed partizan missions with difficulty 1",
+		"criteria": "2",
+		"continuous": "1",
+		"category": "5",
+		"difficulty": "1"
+	},
+	{
+		"id": "3",
+		"name": "unlocked all difficulty 1 artifacts",
+		"description": "find all difficulty 1 artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "0",
+		"difficulty": "1"
+	},
+	{
+		"id": "4",
+		"name": "unlocked all difficulty 2 artifacts",
+		"description": "find all difficulty 2 artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "0",
+		"difficulty": "2"
+	},
+	{
+		"id": "5",
+		"name": "unlocked all difficulty 3 artifacts",
+		"description": "find all difficulty 3 artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "0",
+		"difficulty": "3"
+	},
+	{
+		"id": "7",
+		"name": "unlocked all difficulty 1 partizan artifacts",
+		"description": "find all difficulty 1 partizan artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "5",
+		"difficulty": "1"
+	},
+	{
+		"id": "8",
+		"name": "completed partizan mission difficulty 2",
+		"description": "number of completed partizan missions with difficulty 2",
+		"criteria": "2",
+		"continuous": "1",
+		"category": "5",
+		"difficulty": "2"
+	},
+	{
+		"id": "9",
+		"name": "unlocked all difficulty 2 partizan artifacts",
+		"description": "find all difficulty 2 partizan artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "5",
+		"difficulty": "2"
+	},
+	{
+		"id": "10",
+		"name": "completed partizan mission difficulty 3",
+		"description": "number of completed partizan missions with difficulty 3",
+		"criteria": "2",
+		"continuous": "1",
+		"category": "5",
+		"difficulty": "3"
+	},
+	{
+		"id": "11",
+		"name": "unlocked all difficulty 3 partizan artifacts",
+		"description": "find all difficulty 3 partizan artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "5",
+		"difficulty": "3"
+	},
+	{
+		"id": "12",
+		"name": "unlocked all difficulty 4 artifacts",
+		"description": "find all difficulty 4 artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "0",
+		"difficulty": "4"
+	},
+	{
+		"id": "13",
+		"name": "unlocked first story mission",
+		"description": "complete any story mission",
+		"criteria": "4",
+		"continuous": "0",
+		"category": "0",
+		"difficulty": "0"
+	},
+	{
+		"id": "14",
+		"name": "unlocked all story missions",
+		"description": "complete all story missions",
+		"criteria": "5",
+		"continuous": "0",
+		"category": "0",
+		"difficulty": "0"
+	},
+	{
+		"id": "15",
+		"name": "completed partizan mission difficulty 4",
+		"description": "number of completed partizan missions with difficulty 4",
+		"criteria": "2",
+		"continuous": "1",
+		"category": "5",
+		"difficulty": "4"
+	},
+	{
+		"id": "16",
+		"name": "unlocked all difficulty 4 partizan artifacts",
+		"description": "find all difficulty 4 partizan artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "5",
+		"difficulty": "4"
+	},
+	{
+		"id": "17",
+		"name": "completed komita mission difficulty 1",
+		"description": "number of completed komita missions with difficulty 1",
+		"criteria": "2",
+		"continuous": "1",
+		"category": "7",
+		"difficulty": "1"
+	},
+	{
+		"id": "18",
+		"name": "unlocked all difficulty 1 komita artifacts",
+		"description": "find all difficulty 1 komita artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "7",
+		"difficulty": "1"
+	},
+	{
+		"id": "19",
+		"name": "completed komita mission difficulty 2",
+		"description": "number of completed komita missions with difficulty 2",
+		"criteria": "2",
+		"continuous": "1",
+		"category": "7",
+		"difficulty": "2"
+	},
+	{
+		"id": "20",
+		"name": "unlocked all difficulty 2 komita artifacts",
+		"description": "find all difficulty 2 komita artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "7",
+		"difficulty": "2"
+	},
+	{
+		"id": "21",
+		"name": "completed komita mission difficulty 3",
+		"description": "number of completed komita missions with difficulty 3",
+		"criteria": "2",
+		"continuous": "1",
+		"category": "7",
+		"difficulty": "3"
+	},
+	{
+		"id": "22",
+		"name": "unlocked all difficulty 3 komita artifacts",
+		"description": "find all difficulty 3 komita artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "7",
+		"difficulty": "3"
+	},
+	{
+		"id": "23",
+		"name": "completed komita mission difficulty 4",
+		"description": "number of completed komita missions with difficulty 4",
+		"criteria": "2",
+		"continuous": "1",
+		"category": "7",
+		"difficulty": "4"
+	},
+	{
+		"id": "24",
+		"name": "unlocked all difficulty 4 komita artifacts",
+		"description": "find all difficulty 4 komita artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "7",
+		"difficulty": "4"
+	},
+	{
+		"id": "25",
+		"name": "completed all partizan stories",
+		"description": "complete all partizan stories",
+		"criteria": "5",
+		"continuous": "0",
+		"category": "5",
+		"difficulty": "0"
+	},
+	{
+		"id": "26",
+		"name": "completed all komita stories",
+		"description": "complete all komita stories",
+		"criteria": "5",
+		"continuous": "0",
+		"category": "7",
+		"difficulty": "0"
+	},
+	{
+		"id": "27",
+		"name": "completed spartanec mission difficulty 1",
+		"description": "number of completed spartanec missions with difficulty 1",
+		"criteria": "2",
+		"continuous": "1",
+		"category": "8",
+		"difficulty": "1"
+	},
+	{
+		"id": "28",
+		"name": "unlocked all difficulty 1 spartanec artifacts",
+		"description": "find all difficulty 1 spartanec artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "8",
+		"difficulty": "1"
+	},
+	{
+		"id": "29",
+		"name": "completed spartanec mission difficulty 2",
+		"description": "number of completed spartanec missions with difficulty 2",
+		"criteria": "2",
+		"continuous": "1",
+		"category": "8",
+		"difficulty": "2"
+	},
+	{
+		"id": "30",
+		"name": "unlocked all difficulty 2 spartanec artifacts",
+		"description": "find all difficulty 2 spartanec artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "8",
+		"difficulty": "2"
+	},
+	{
+		"id": "31",
+		"name": "completed spartanec mission difficulty 3",
+		"description": "number of completed spartanec missions with difficulty 3",
+		"criteria": "2",
+		"continuous": "1",
+		"category": "8",
+		"difficulty": "3"
+	},
+	{
+		"id": "32",
+		"name": "unlocked all difficulty 3 spartanec artifacts",
+		"description": "find all difficulty 3 spartanec artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "8",
+		"difficulty": "3"
+	},
+	{
+		"id": "33",
+		"name": "completed spartanec mission difficulty 4",
+		"description": "number of completed spartanec missions with difficulty 4",
+		"criteria": "2",
+		"continuous": "1",
+		"category": "8",
+		"difficulty": "4"
+	},
+	{
+		"id": "34",
+		"name": "unlocked all difficulty 4 spartanec artifacts",
+		"description": "find all difficulty 4 spartanec artifacts",
+		"criteria": "1",
+		"continuous": "0",
+		"category": "8",
+		"difficulty": "4"
+	},
+	{
+		"id": "35",
+		"name": "completed all spartanec stories",
+		"description": "complete all spartanec stories",
+		"criteria": "5",
+		"continuous": "0",
+		"category": "8",
+		"difficulty": "0"
+	}
+]

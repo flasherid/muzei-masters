@@ -1,0 +1,23 @@
+<resources>
+
+    <color name="progress_background">#A8CCCCCC</color>
+    <color name="panel_background">#A8202020</color>
+    <color name="progress_rest">#A8666666</color>
+    <color name="progress_current">#A8FF0000</color>
+    
+    <color name="expand_group_background">#a8f9f9f9</color>
+    <color name="expand_group_text">#202020</color>
+    
+    <color name="white_belt">#FFFFFF</color>
+    <color name="yellow_belt">#FFFF00</color>
+    <color name="orange_belt">#FF8000</color>
+    <color name="green_belt">#00FF00</color>
+    <color name="blue_belt">#0000FF</color>
+    <color name="purple_belt">#551A8B</color>
+    <color name="red_belt">#FF0000</color>
+    <color name="brown_belt">#F4A460</color>
+    <color name="black_belt">#000000</color>
+    
+    <color name="dialog_background">#D3D3D3</color>
+
+</resources>

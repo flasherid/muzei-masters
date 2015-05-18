@@ -1,0 +1,30 @@
+[
+	{
+		"id": "5",
+		"name": "mirko",
+		"category": "partizani",
+		"picture_filename": "images/images.jpg",
+		"mapper": "0"
+	},
+	{
+		"id": "7",
+		"name": "slavko",
+		"category": "komiti",
+		"picture_filename": "images/komita1.jpg",
+		"mapper": "0"
+	},
+	{
+		"id": "8",
+		"name": "alekso",
+		"category": "spartanci",
+		"picture_filename": "images/Image-ready-CS-2-icon.png",
+		"mapper": "0"
+	},
+	{
+		"id": "9",
+		"name": "vespuci",
+		"category": "mappers",
+		"picture_filename": "images/artifact-aztec.jpg",
+		"mapper": "1"
+	}
+]

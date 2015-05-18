@@ -1,0 +1,23 @@
+[
+	{
+		"id": "2",
+		"name": "first floor",
+		"level": "1",
+		"picture": "images/scm_first.png",
+		"isdefault": "1"
+	},
+	{
+		"id": "3",
+		"name": "second floor",
+		"level": "2",
+		"picture": "images/scm_second.png",
+		"isdefault": "0"
+	},
+	{
+		"id": "4",
+		"name": "third floor",
+		"level": "3",
+		"picture": "images/scm_third.png",
+		"isdefault": "0"
+	}
+]

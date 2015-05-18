@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <string name="app_name">TextRecoApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Нагодувања</string>
+    <string name="scan_btn">Скенирај</string>
+    <string name="retry">Пробај пак</string>
+    <string name="submit">Поднеси</string>
+    <string name="title_scan_dialog">Резултат од скенирањето</string>
+    <string name="scanned_text">Скениран текст:</string>
+    <string name="cancel">Откажи</string>
+    <string name="goto_achievements">Види Достигнувања</string>
+    <string name="title_unlocked_dialog">Нови отклучени достигнувања</string>
+    <string name="image_description">Опис на слика</string>
+
+    <!-- Missions -->
+    <string name="mission_description_template">Здобиј се со %1$s знаење во категоријата %2$s.</string>
+    <string name="knowledge_basic">основно</string>
+    <string name="knowledge_intermediate">средно</string>
+    <string name="knowledge_superior">супериорно</string>
+    <string name="knowledge_expert">експертско</string>
+    <string name="dialog_mission_title">Ранкирана мисија во тек</string>
+    <string name="dialog_mission_message">Доколку започнеш нова игра, целиот прогрес во мисијата ќе биде ресетиран</string>
+    <string name="select_dificulty">Најпрвин избери тежина за мисијата</string>
+    <string name="mission_stage_passed">Успешно завршена етапа</string>
+    <string name="mission_stage_failed">Неуспешно етапа</string>
+    <string name="mission_finished">Мисијата е завршена</string>
+    <string name="mission_new">Нова мисија</string>
+    <string name="select_mission">Избери мисија</string>
+    <string name="select">Избери</string>
+    <string name="start_anyway">Започни во секој случај</string>
+
+    <!-- Panels -->
+    <string name="mission_progress">Прогрес на мисијата: </string>
+    <string name="find_artifact">Најди артефакт</string>
+    <string name="ranked_mission">Ранкирана мисија</string>
+    <string name="character_description_template">Здраво! Јас сум љубител на \"%1$s\" и денес ќе бидам твој регрутер.</string>
+    <string name="no_mission_in_progress">Ниедна ранкирана мисија не е во тек</string>
+    <string name="how_to_start_mission">Избери тежина и кликни на\'Започни нова мисија\'</string>
+    <string name="next_hint">Следна помош</string>
+    <string name="story_mission">Приказна</string>
+    <string name="ranked_missions">Ранкирани мисии</string>
+    <string name="story_missions">Приказни</string>
+    <string name="difficulty">Тежина: </string>
+
+    <!-- Map -->
+    <string name="wrong_artifact_scanned">Посакуваниот артефакт е некаде во црвената област.</string>
+    <string name="artifact_unlocked"> е сега отклучен</string>
+    <string name="map_name">Име: </string>
+    <string name="map_category">Категорија: </string>
+    <string name="map_description">Опис: </string>
+
+    <!-- Story -->
+    <string name="story_intro">Вовед во приказната</string>
+    <string name="final_congratulations">Честитки!!!</string>
+    <string name="final_followup">Ја заврши приказната и ги најде сите артефакти</string>
+    <string name="final_button">Започни ја истата приказна од почеток</string>
+    <string name="final_note">Забелешка: Доколку го притиснеш копчето, целиот прогрес во приказната ќе биде избришан.</string>
+    <string name="step_solved">Точно!!!\nпремини на следниот артефакт</string>
+    <string name="step_message">Дали можеш да го погодиш артефактот?</string>
+    <string name="step_map">Помош од картографот</string>
+    <string name="unlocked">Отклучени достигнувања</string>
+    <string name="see_on_map">Види го артефактот на мапа</string>
+    <string name="artifact_unknown">\?\?\?</string>
+
+    <!-- Settings -->
+    <string name="clear_ranked">Ресетирај ранкирани мисии</string>
+    <string name="clear_story">Ресетирај приказни</string>
+    <string name="settings">Нагодувања</string>
+    <string name="reset_achievements">Ресетирај достигнувања</string>
+    <string name="check_for_update">Провери нова верзија</string>
+    <string name="lock_artifacts">Заклучи достигнувања</string>
+    <string name="unlock_artifacts">Отклучи артефакти</string>
+    <string name="achievements_clicked">All achievements have been reset</string>
+    <string name="update_checking">Проверка за нова верзија, ве молиме почекајте</string>
+    <string name="artifacts_locked">Сите артефакти се заклучени</string>
+    <string name="artifacts_unlocked">Сите артефакти се отклучени</string>
+    <string name="reset_ranked">Сите ранкирани мисии за оваа категорија се ресетирани</string>
+    <string name="reset_story">Сите приказни за оваа категорија се ресетирани</string>
+    <string name="change_player_name">Промени име</string>
+    <string name="no_such_artifact">Не постои таков артефакт</string>
+
+    <!-- Rankings -->
+    <string name="white_belt">Бел Појас</string>
+    <string name="yellow_belt">Жолт Појас</string>
+    <string name="orange_belt">Портокалов Појас</string>
+    <string name="green_belt">Зелен Појас</string>
+    <string name="blue_belt">Син Појас</string>
+    <string name="purple_belt">Виолетов Појас</string>
+    <string name="red_belt">Црвен Појас</string>
+    <string name="brown_belt">Кафеав Појас</string>
+    <string name="black_belt">Црн Појас</string>
+    <string name="you_are">Ти си</string>
+    <string name="history_ninja">Историски нинџа</string>
+
+</resources>
